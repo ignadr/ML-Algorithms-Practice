@@ -16,7 +16,8 @@ Learned about multiple linear regression, computing the cost using mean squared 
 <br />
 <br />
 ## 4. [auto_mpg.ipynb](https://github.com/ignadr/ML-Algorithms-Manual/blob/main/auto_mpg.ipynb)
-Implementing the cost function and gradient descent for multiple linear regression to a dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/9/auto+mpg)<br />
+Implementing the cost function and gradient descent for multiple linear regression to a dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/9/auto+mpg).<br />
+<br />
 Initially, I implemented univariate linear regression using horsepower as feature and mpg (miles per gallon) as the target. However, the dataset has multiple features other than horsepower. So, I decided I will use it for multiple linear regression.<br />
 Link to dataset: [Auto MPG](https://archive.ics.uci.edu/dataset/9/auto+mpg)
 <br />
