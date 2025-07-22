@@ -28,10 +28,10 @@ Link to dataset: [Student Performance (Multiple Linear Regression)](https://www.
 <br />
 <br />
 ## [mushroom_binary_classification.ipynb](https://github.com/ignadr/ML-Algorithms-Practice/blob/main/mushroom_binary_classification.ipynb)
-I started learning binary classification using logistic regression, this time using sklearn. This is also when I refresh my knowledge about `OneHotEncoder` from sklearn.
+I started learning binary classification using logistic regression, this time using sklearn. This is also when I refresh my knowledge about `OneHotEncoder` from sklearn.<br />
 Link to dataset: [Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 <br />
 <br />
 ## [drug_classification.ipynb](https://github.com/ignadr/ML-Algorithms-Practice/blob/main/drug_classification.ipynb)
-Still learning about classification, but this one is multiclass classification. Overall, I learned a lot about transforming multiple features at the same time using `ColumnTransformer` from sklearn and also using `OrdinalEncoder` to transform ordinal data and `OneHotEncoder` to transform nominal data. During this time, I also learned about ANN using tensorflow.
+Still learning about classification, but this one is multiclass classification. Overall, I learned a lot about transforming multiple features at the same time using `ColumnTransformer` from sklearn and also using `OrdinalEncoder` to transform ordinal data and `OneHotEncoder` to transform nominal data. During this time, I also learned about ANN using tensorflow.<br />
 Link to dataset: [Drug Classification](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
