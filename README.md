@@ -41,3 +41,8 @@ Link to dataset: [Drug Classification](https://www.kaggle.com/datasets/prathamtr
 I tried joining the popular [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) competition in Kaggle. I learned a lot about the importance of data cleaning and feature engineering. A clean dataset goes a long way. Although my feature engineering is still lacking for now, I am satisfied that I managed to join this competition. There are some ideas of which features I want to transform and create next, so I will probably come back to this dataset later in the future.<br />
 Latest score: 0.78468<br />
 Link to my model in Kaggle: [Titanic Survival Prediction](https://www.kaggle.com/code/ignatiusadrian/titanic-survival-prediction)
+<br />
+<br />
+## [wine_clustering_k_means_practice.ipynb](https://github.com/ignadr/ML-Algorithms-Practice/blob/main/wine_clustering_k_means_practice.ipynb)
+Implemented K-Means algorithm using sklearn to a wine dataset. It is a very basic implementation of K-Means to a basic dataset, but what I learned the most is that I can visualize a dataset with more than 2 features if I applied PCA first, which I think is interesting.<br />
+Link to dataset: [Wine Dataset for Clustering](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering/data)
