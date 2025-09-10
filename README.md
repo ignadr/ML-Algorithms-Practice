@@ -46,3 +46,8 @@ Link to my model in Kaggle: [Titanic Survival Prediction](https://www.kaggle.com
 ## [wine_clustering_k_means_practice.ipynb](https://github.com/ignadr/ML-Algorithms-Practice/blob/main/wine_clustering_k_means_practice.ipynb)
 Implemented K-Means algorithm using sklearn to a wine dataset. It is a very basic implementation of K-Means to a basic dataset, but what I learned the most is that I can visualize a dataset with more than 2 features if I applied PCA first, which I think is interesting.<br />
 Link to dataset: [Wine Dataset for Clustering](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering/data)
+<br />
+<br />
+## [book_recommender.ipynb](https://github.com/ignadr/ML-Algorithms-Practice/blob/main/book_recommender.ipynb)
+Learning about recommender system with `cosine_similarity` from sklearn. For most of the codes, I learned a lot from this [notebook](https://www.kaggle.com/code/shivamja/books-recommendation-system). It kind of gave me a sense on how I should approach the next recommender system practice (when I actually practice it again).<br />
+Link to dataset: [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
